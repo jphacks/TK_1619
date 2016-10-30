@@ -1,7 +1,7 @@
 # Shock Sticks
 
 ## 製品概要
-早食い抑圧のためのスマート箸
+早食い抑制のためのスマート箸
 
 ### Eat×Technology=EaTech
 
